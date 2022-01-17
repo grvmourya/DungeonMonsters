@@ -20,7 +20,7 @@ public class Collidable : MonoBehaviour
         {
             if (hits[i] == null)
                 continue;
-
+            
             OnCollide(hits[i]);
 
             //The array is not cleaned up every time so we will clean it ourself
