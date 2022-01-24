@@ -12394,7 +12394,7 @@ MonoBehaviour:
   weaponPrices: 
   xpTable: 
   player: {fileID: 0}
-  pesos: 0
+  pesos: 15
   experience: 0
 --- !u!4 &1029582243
 Transform:
